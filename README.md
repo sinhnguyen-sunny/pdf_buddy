@@ -1,6 +1,6 @@
 # Langchain Demo - PDF Text Chatbot
 
-This repository contains a pet demo showcasing the use of Langchain, Hugging Face's Embedding & LLM, to build a chatbot for PDF documents. It is customized from ![original repository](https://github.com/alejandro-ao/ask-multiple-pdfs). The chatbot is deployed as a Streamlit web application on Hugging Face Spaces using GitHub Actions.
+This repository contains a pet demo showcasing the use of Langchain, Hugging Face's Embedding & LLM, to build a chatbot for PDF documents. It is customized from [original repository](https://github.com/alejandro-ao/ask-multiple-pdfs). The chatbot is deployed as a Streamlit web application on Hugging Face Spaces using GitHub Actions.
 
 ## Overview
 
